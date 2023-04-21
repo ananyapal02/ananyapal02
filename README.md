@@ -1,5 +1,5 @@
 ### Hi there, I'm Ananya Pal! 👋
-Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=${ananyapal02}.${ananyapal02})
+#Glad to see you here!  [visitors](https://visitor-badge.glitch.me/badge?page_id=${ananyapal02}.${ananyapal02})
 
 <!--
 **ananyapal02/ananyapal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
